@@ -6,5 +6,9 @@
   "markdown-pdf.margin.bottom": "15mm",
   "markdown-pdf.displayHeaderFooter": false,
   "markdown-pdf.printBackground": true,
-  "markdown-pdf.styles": ["pdf-style.css"]
+  "markdown-pdf.styles": ["pdf-style.css"],
+  "markdownlint.config": {
+    "MD033": false,
+    "MD028": false
+  }
 }
